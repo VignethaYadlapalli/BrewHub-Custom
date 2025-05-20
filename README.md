@@ -1,8 +1,8 @@
-# Brewhub - Coffee Business Web Application
+# BrewHub - Coffee Business Web Application
 
-## Access Brewhub Website ☕
+## Access BrewHub Website ☕
 
-Visit the [Brewhub Coffee Shop](http://brewhubcoffeeshop-1569226204.ap-southeast-2.elb.amazonaws.com/) to experience the brewing excellence in every cup!
+Visit the [BrewHub Coffee Shop](http://brewhubcoffeeshop-1569226204.ap-southeast-2.elb.amazonaws.com/) to experience the brewing excellence in every cup!
 
 
 
@@ -22,7 +22,7 @@ Visit the [Brewhub Coffee Shop](http://brewhubcoffeeshop-1569226204.ap-southeast
 
 
 
-Welcome to Brewhub, a web application designed to streamline and enhance your coffee business operations. This README.md will guide you through the setup process and provide an overview of the application's features.
+Welcome to BrewHub, a web application designed to streamline and enhance your coffee business operations. This README.md will guide you through the setup process and provide an overview of the application's features.
 
 ## Table of Contents
 
@@ -222,7 +222,7 @@ Before you start, make sure you have the following software installed:
 
 ## Features
 
-Brewhub offers the following features:
+BrewHub offers the following features:
 
 1. **User Authentication**:
    - Users can create accounts, log in, and log out.
@@ -258,7 +258,7 @@ Brewhub offers the following features:
 
 ## Contributing
 
-If you'd like to contribute to Brewhub, please follow these steps:
+If you'd like to contribute to BrewHub, please follow these steps:
 
 1. Fork the repository and create a new branch for your feature or bug fix.
 2. Make your changes and test thoroughly.
@@ -272,4 +272,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 Feel free to reach out with any questions or feedback. Happy brewing!
 
-**Brewhub** - *Brewing Excellence in Every Cup*
+**BrewHub** - *Brewing Excellence in Every Cup*
